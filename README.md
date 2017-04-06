@@ -15,5 +15,5 @@ $ rails s
 ```
 
 As of now only foloowing resourse is available
-api/organizations for API
-organizations for frontend UI.
+```api/organizations``` for API
+```/organizations``` for frontend UI.
