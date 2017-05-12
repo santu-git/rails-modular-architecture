@@ -15,5 +15,7 @@ $ rails s
 ```
 
 As of now only foloowing resourse is available
-api/organizations for API
-organizations for frontend UI.
+```api/organizations``` for API
+```/organizations``` for frontend UI.
+
+Instead of multiple repo I created ```engine``` folder inside app for all engine
